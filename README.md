@@ -11,4 +11,6 @@
     </button>
   </form>
   <ul id="todo-list">
+  </ul id="todo-list">
+       <li> this is an item</li>
   </ul>
